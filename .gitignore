@@ -1,0 +1,14 @@
+.vscode
+.venv
+__pycache__
+*.pyc
+instance
+.env
+*.sqlite
+.DS_Store
+.idea
+*.iml
+*.log
+*.pot
+*.py[cod]
+.pytest_cache/
